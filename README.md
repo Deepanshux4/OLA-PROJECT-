@@ -38,39 +38,39 @@ The dashboard contains **5 fully interactive report pages** connected through **
 - 🎯 Interactive Navigation Buttons
 - ⚡ Cross Filtering & Drill-down Analysis
 
----
-
 # 📷 Dashboard Preview
 
 ## 🏠 Overall Dashboard
 
-![Overall Dashboard](images/dashboard1.png)
+![Overall Dashboard](./DASHBOARD%201.png)
 
 ---
 
 ## 🚗 Vehicle Type Dashboard
 
-![Vehicle Dashboard](images/dashboard2.png)
+![Vehicle Dashboard](./DASHBOARD%202.png)
 
 ---
 
 ## 💰 Revenue Dashboard
 
-![Revenue Dashboard](images/dashboard3.png)
+![Revenue Dashboard](./DASHBOARD%203.png)
 
 ---
 
 ## ❌ Cancellation Dashboard
 
-![Cancellation Dashboard](images/dashboard4.png)
+![Cancellation Dashboard](./DASHBOARD%204.png)
 
 ---
 
 ## ⭐ Ratings Dashboard
 
-![Ratings Dashboard](images/dashboard5.png)
+![Ratings Dashboard](./DASHBOARD%205.png)
 
----
+
+
+
 
 # 📊 Dashboard Modules
 
